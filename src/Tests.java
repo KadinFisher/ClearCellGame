@@ -12,7 +12,7 @@ import org.junit.runners.MethodSorters;
 /* The following directive executes tests in sorted order */
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 
-public class StudentTests {
+public class Tests {
 	
 	// Testing the basic Game constructor with an empty ClearCellGame.
 	@Test
